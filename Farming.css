@@ -1,0 +1,222 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 271px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 270px;
+  height: 270px;
+  object-position: 100% 50%;
+  margin: 1px 58px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  letter-spacing: 10px;
+  font-size: 3.75rem;
+  margin: -168px auto 60px 158px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -158px;
+    margin-left: 95px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 20px;
+    margin-right: 58px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 377px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: 97px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 18px;
+    margin-bottom: 23px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 296px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -21px;
+    margin-left: 13px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    font-weight: normal;
+    margin-top: -19px;
+    margin-right: auto;
+    margin-bottom: 27px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 158px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 400;
+  font-size: 2.25rem;
+  margin: 40px 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    font-size: 1.875rem;
+  }
+} .u-section-3 {
+  background-image: url("images/JV5_4230-01.jpeg");
+  background-position: 50% 90.55%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 650px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 536px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 411px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 353px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 222px;
+  }
+} .u-section-4 {
+  background-image: url("images/JV5_4231-01.jpeg");
+  background-position: 50% 77.21%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 600px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 495px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 379px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 350px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 220px;
+  }
+} .u-section-5 {
+  background-image: url("images/JV5_4227-01.jpeg");
+  background-position: 50% 72.55%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 617px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 509px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 390px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 365px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 230px;
+  }
+} .u-section-6 {
+  background-image: url("images/Farming.2.JPG");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 657px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 542px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 415px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 361px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 227px;
+  }
+}.u-section-7 .u-sheet-1 {
+  min-height: 336px;
+}
+
+.u-section-7 .u-text-1 {
+  font-weight: 400;
+  margin: 93px auto 0;
+}
+
+.u-section-7 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 66px 0 15px auto;
+}
